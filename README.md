@@ -1,4 +1,4 @@
-# NRG Market Trends Newsletter Agent
+# Market Trends Newsletter Agent
 
 An AI-powered newsletter agent that researches recent U.S. energy-market developments, identifies NRG-relevant trends and opportunities, and generates an HTML market-intelligence newsletter.
 
